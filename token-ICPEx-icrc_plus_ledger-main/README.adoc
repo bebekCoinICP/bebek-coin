@@ -1,3 +1,8 @@
+This readme and main documents in the folder are copied from the code that ICPEx opensourced.
+I also added the BebekCoin-Canister-Code.txt where is the code from the BEBEK Coin canister deployed via the ICPEx. This is the canister: https://dashboard.internetcomputer.org/canister/m6e2t-iqaaa-aaaam-acrsa-cai
+
+Please understand that I am not a developer and I did my best.
+
 = ICRC-2 Plus Ledger
 
 The ICRC-2+ protocol is an enhanced version of the ICRC-2 protocol developed by the ICPEx team. It aims to enrich the functions of the ICRC-2 protocol and make the ICRC-2 protocol more competitive with the token standards of other public chains. The ICRC-2+ protocol is compatible with both the ICRC-2 and ICRC-1 protocols. Users can import ICRC-2+ protocol tokens just like ICRC-2/ICRC-1 protocol tokens without any additional operations.
