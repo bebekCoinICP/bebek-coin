@@ -49,6 +49,16 @@ Further.
 * Create a community on Telegram: http://t.me/bebekcoinicp also quite active
 * Create a short Presentation of your MemeCoin
 
+File Structure:
+
+Website-Canister: Folder with the canister for the website. The Bebek Coin Website is designed in WordPress, with all the information necessary for the token and with many challenges I managed to do the integration with the internet identity. The website is up and running at the link above or bebekcoin.xyz
+
+token-ICPEx-icrc_plus_ledger-main: Folder with the canister forked from ICPEx. We used ICPEx to deploy the token and in the BebekCoin-Canister-Code.txt file holds the code we copied from the canister that is live and holds the token https://dashboard.internetcomputer.org/canister/m6e2t-iqaaa-aaaam-acrsa-cai . You can copy the canister id and add it to your wallet to see that the token is live and works.
+
+Bebek Coin WhitePaper - PDF with whitepaper, that is also available on our website
+README
+
+
 
 If you have any further questions you can reach out to me via telegram @DuckXcrypto
 
