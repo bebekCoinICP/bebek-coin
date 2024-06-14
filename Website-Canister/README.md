@@ -2,6 +2,8 @@ The Bebek Coin Website is designed in WordPress, with all the information necess
 
 The website can be viewed on https://oe5eo-diaaa-aaaal-qje5q-cai.icp0.io/ or on http://bebekcoin.xyz/
 
+The folder node_modules is missing, because it was too big to upload via browser. The full website archive can be found on our developer's drive : https://drive.google.com/drive/folders/1LEuWetQgmZpgnMqkaDpAJ50sWmDWaQqN 
+
 Prerequisites
 Before you start, verify that you have:
 
