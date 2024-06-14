@@ -1,5 +1,6 @@
 The Bebek Coin Website is designed in WordPress, with all the information necessary for the token and with many challenges I managed to do the integration with the internet identity. Here is a description of my work. I hope it makes sense.
 
+The website can be viewed on https://oe5eo-diaaa-aaaal-qje5q-cai.icp0.io/ or on http://bebekcoin.xyz/
 
 Prerequisites
 Before you start, verify that you have:
