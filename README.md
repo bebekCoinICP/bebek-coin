@@ -7,9 +7,9 @@ I would like to preface this by saying that I am not a developer, I am community
 
 Our team has worked diligently to complete all the necessary tasks and requirements to bring this project to life. Despite the challenges, we have successfully developed functional smart contracts, deployed the token on the ICP Mainnet, and designed a well-thought-out tokenomics structure. Additionally, we have implemented an innovative airdrop mechanism to ensure fair initial distribution and have cultivated an engaged and enthusiastic community around BEBEK Coin.
 
-Our project is more than just a token; it’s a vibrant and growing community, driven by the fun and engaging spirit of the Duck Army. We are proud of the progress we have made and are excited to continue building and expanding our community. Below, we outline the achievements and goals we have accomplished in detail.
+Our project is more than just a token; it’s a vibrant and growing community, a memecoin is not about the technology, but about the community and after looking at our competitiors we can confidently say that our community is the best in the competition, driven by the fun and engaging spirit of the Duck Army! We are proud of the progress we have made and are excited to continue building and expanding our community. Below, we outline the achievements and goals we have accomplished in detail.
 
-Here is a video presentation: https://www.loom.com/share/307eb2bf58704378bfa871d56e6f2835?sid=8e83948f-7cea-4636-862c-a4c6bb142a84
+Here is a video presentation: https://www.loom.com/share/60b2dccf5c9a4b98aad32144e516f969?sid=ac645d9a-dcc7-482c-807e-9ea8c922c9ec 
 
 Achievements & Goals
 
