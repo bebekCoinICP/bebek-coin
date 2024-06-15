@@ -16,6 +16,7 @@ Functional smart contracts for deploying the Token
 Deployment of the Token on ICP Mainnet.
 * The ICRC-2 BEBEK token was deployed using the ICPEx tool
 * Here is the link for the token canister https://dashboard.internetcomputer.org/canister/m6e2t-iqaaa-aaaam-acrsa-cai
+* You can add the canister to your wallet and see that it exists and is transferable
 
 A well-thought-out tokenomics design
 * Token Name: BEBEK (Coin)
@@ -45,9 +46,11 @@ Extra Points
 
 * Establish a strong social media presence to engage the community
 Further. 
-* Create a Twitter Page: https://x.com/BebekCoin our twitter community is quite active
-* Create a community on Telegram: http://t.me/bebekcoinicp also quite active
-* Create a short Presentation of your MemeCoin
+* Create a Twitter Page: https://x.com/BebekCoin our twitter community is quite active and has over 200 members.
+* Create a community on Telegram: http://t.me/bebekcoinicp also quite active and has over 100 members.
+
+As an achievement, all our growth is organic and free. We have made partnerships with both ICP Hub ID and CryptoEights, to spread awareness about our coin, offering just Bebek Token as airdrop trough the posts. 
+As a future plan, if we win the competition, we would like to invest some of the prize money in more promotion and also put some of the ICP in the liquidity pool. 
 
 File Structure:
 
