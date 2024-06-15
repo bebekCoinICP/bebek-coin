@@ -9,6 +9,8 @@ Our team has worked diligently to complete all the necessary tasks and requireme
 
 Our project is more than just a token; it’s a vibrant and growing community, driven by the fun and engaging spirit of the Duck Army. We are proud of the progress we have made and are excited to continue building and expanding our community. Below, we outline the achievements and goals we have accomplished in detail.
 
+Here is a video presentation: https://www.loom.com/share/307eb2bf58704378bfa871d56e6f2835?sid=8e83948f-7cea-4636-862c-a4c6bb142a84
+
 Achievements & Goals
 
 Functional smart contracts for deploying the Token
@@ -50,6 +52,7 @@ Further.
 * Create a community on Telegram: http://t.me/bebekcoinicp also quite active and has over 100 members.
 
 As an achievement, all our growth is organic and free. We have made partnerships with both ICP Hub ID and CryptoEights, to spread awareness about our coin, offering just Bebek Token as airdrop trough the posts. 
+
 As a future plan, if we win the competition, we would like to invest some of the prize money in more promotion and also put some of the ICP in the liquidity pool. 
 
 File Structure:
