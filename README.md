@@ -11,6 +11,8 @@ Our project is more than just a token; it’s a vibrant and growing community, a
 
 Here is a video presentation: https://www.loom.com/share/60b2dccf5c9a4b98aad32144e516f969?sid=ac645d9a-dcc7-482c-807e-9ea8c922c9ec 
 
+*Edit: After reading the whitepaper which was submitted to the competition, please also read the UPDATE of the Whitepaper that you find in this repo. Thanks :)
+
 Achievements & Goals
 
 Functional smart contracts for deploying the Token
